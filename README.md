@@ -60,3 +60,27 @@ Esta sección tiene por objetivo principal aprender a utilizar Angular Material,
 En la siguiente sección después de esta, continuaremos la aplicación pero realizaremos un CRUD.
 
 
+## Parte 3 
+
+¿Qué veremos en esta sección?<br><br>
+Este es un breve listado de los temas fundamentales:
+<br>
+CRUD
+
+Create
+
+Read
+
+Update
+
+Delete
+
+Pipes puros e impuros
+
+Snacks
+
+Dialogs
+
+Inyección de servicios manualmente
+
+Esta sección les dará las bases para poder realizar CRUD completos hacia cualquier backend basado en servicios web, mediante comunicación JSON

@@ -1,0 +1,9 @@
+<h1 mat-dialog-title>Seguro que quieres borrar el personaje?</h1>
+<div mat-dialog-content>
+  <p>Este proceso no es reversible, vas a elimnar a {{data.superhero}}</p>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onNoClick()">Cancelar</button>
+  <span class="spacer"></span>
+  <button mat-button (click)="onConfirm()" cdkFocusInitial color="primary" mat-flat-button>Borrar</button>
+</div>

@@ -1,6 +1,13 @@
 ## Temas puntuales de la sección
 ## Parte 1
 
+## DEV
+
+1. Clonar Proyecto
+2. ```npm install```
+3. Levantar backend ```npm run backend```
+4. Ejecutar aplicacion ```npm start``` o bien ```ng serve -o```
+
 <br>
 
 ¿Qué veremos en esta sección?
